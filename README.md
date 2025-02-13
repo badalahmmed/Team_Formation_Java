@@ -9,10 +9,15 @@ Metaheuristics solve team formation problem as a Set Covering Problem(SCP). In t
 
 
 [Methodology1.0](https://github.com/badalahmmed/Team_Formation_Java/blob/main/Methodology1.0.pdf) Provides the basics of Team formation Problem and MTO
+
 [Data](https://github.com/badalahmmed/Team_Formation_Java/blob/main/data.rar) provides dataset to implement the following algorithms
+
 [Team_formation](https://github.com/badalahmmed/Team_Formation_Java/blob/main/Team_formation.zip) provides the basic java codes of Team formation problem
+
 [TikiTaka](https://github.com/badalahmmed/Team_Formation_Java/blob/main/Tiki%20Taka.zip) Provides Tikitaka Based team formation algorithm ij java project.
+
 [MTO Tikitaka](https://github.com/badalahmmed/Team_Formation_Java/blob/main/MTO%20Tikitaka.zip) provides  TikiTaka based Multitasking Optimization Algorithms
+
 [MTO Transfer learning Tabu-Jaya](https://github.com/badalahmmed/Team_Formation_Java/blob/main/MTO%20Transfer%20learning%20Tabu-Jaya.zip) provides transfer learning basded MTO
 
 Note: All the projects are created in netbeans; Happy coding.
